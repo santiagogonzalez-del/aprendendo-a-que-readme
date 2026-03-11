@@ -6,10 +6,10 @@ Objetivo
 EA Portunhol
 ## 📚 Descrição do Projeto
 Este projeto foi criado para: aprender e usar o readme.md
-O objetivo do sistema é _________________________________________________.
+O objetivo do sistema é como usar o readme e repositorios.
 ## 🚧 Status do Projeto
-(X) Em desenvolvimento
-( ) Finalizado
+() Em desenvolvimento
+(X) Finalizado
 ## 🔨 Funcionalidades
 - Autentificação
 - Busqueda
