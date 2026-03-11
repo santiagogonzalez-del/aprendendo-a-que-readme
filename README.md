@@ -3,12 +3,12 @@ batata
 Objetivo
 
 # 📌 Nome do Projeto
-Digite aqui o nome do seu projeto
+EA Portunhol
 ## 📚 Descrição do Projeto
-Este projeto foi criado para _______________________________________________.
+Este projeto foi criado para: aprender e usar o readme.md
 O objetivo do sistema é _________________________________________________.
 ## 🚧 Status do Projeto
-( ) Em desenvolvimento
+(X) Em desenvolvimento
 ( ) Finalizado
 ## 🔨 Funcionalidades
 - __________________________________
