@@ -11,18 +11,18 @@ O objetivo do sistema é _________________________________________________.
 (X) Em desenvolvimento
 ( ) Finalizado
 ## 🔨 Funcionalidades
-- __________________________________
-- __________________________________
-- __________________________________
+- Autentificação
+- Busqueda
+- cifrado
 ## 💻 Tecnologias Utilizadas
-- __________________________________
-- __________________________________
-- __________________________________
+- Front-end
+- Back-end
+- Banco de dados
 ## 📁 Acesso ao Projeto
 O projeto pode ser acessado no meu repositório do GitHub.
 ## 👨‍💻 Autor
-Nome: __________________________________
-GitHub: __________________________________
+Nome: Santiago_Gonzalez
+GitHub: PORUN veneko
 
 Parte 4 – Entendendo cada parte
 Nome do Projeto
